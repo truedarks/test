@@ -1,7 +1,7 @@
 {
   "name": "Camper NFT",
   "description": "We are the Campions, my friend",
-  "image": "https://raw.githubusercontent.com/truedarks/test/main/CampPepe.png",
+  "image": "ipfs://QmXCKT4e2qGF6VNrcbfiSoDyvknxuoenKpq1EeAz92o2Tt",
   "attributes": [
     {
       "trait_type": "pepe",
