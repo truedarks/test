@@ -1,5 +1,11 @@
 {
   "name": "Camper NFT",
   "description": "We are the Campions, my friend",
-  "image": "https://salmon-useful-cougar-692.mypinata.cloud/ipfs/QmXCKT4e2qGF6VNrcbfiSoDyvknxuoenKpq1EeAz92o2Tt"
+  "image": "ipfs://QmXCKT4e2qGF6VNrcbfiSoDyvknxuoenKpq1EeAz92o2Tt",
+  "attributes": [
+    {
+      "trait_type": "pepe",
+      "value": "glasses"
+    }
+  ]
 }
