@@ -1,7 +1,15 @@
 {
-  "name": "Unnamed",
-  "website": "https://google.com",
-  "description": "temporary testing",
-  "logo": "https://raw.githubusercontent.com/truedarks/test/1e2594f4c0af6dac53f2cb7a7c22ff2bd738c498/1.png",
-  "twitter": "https://twitter.com/insanejanak"
+  "name": "Tester NFT",
+  "description": "Тester NFT for NFTWorl.ds",
+  "image": "https://raw.githubusercontent.com/truedarks/test/02dce6a98546f8d7c029341d434a3cc80d0c7095/tester.png",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Camp"
+    }
+  ]
 }
