@@ -1,0 +1,15 @@
+{
+  "name": "Tester NFT",
+  "description": "Тester NFT for NFTWorl.ds",
+  "image": "https://raw.githubusercontent.com/truedarks/nftworl.ds/4ad48bb6ad307064e49482f179b702a68ca0a68f/graphics/tester%20nft/tester.png?token=GHSAT0AAAAAADMCC24FGMTSXRVEJAJ3IDBE2HDURTQ",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Camp"
+    }
+  ]
+}
